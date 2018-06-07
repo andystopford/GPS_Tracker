@@ -1,4 +1,4 @@
-update=Wed 03 Jan 2018 11:57:53 GMT
+update=Wed 16 May 2018 19:53:17 BST
 version=1
 last_client=kicad
 [pcbnew]
@@ -20,9 +20,6 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[cvpcb]
-version=1
-NetIExt=net
 [general]
 version=1
 [eeschema]
@@ -70,6 +67,10 @@ LibName38=DM3AT-SF-PEJM5
 LibName39=LTC4150CMSPBF/LTC4150CMSPBF
 LibName40=MCP73831T-2ATI_OT/MCP73831T-2ATI_OT
 LibName41=DMP1045U/DMP1045U
+LibName42=adxl362
+[cvpcb]
+version=1
+NetIExt=net
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
